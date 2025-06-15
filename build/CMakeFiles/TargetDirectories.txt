@@ -1,0 +1,3 @@
+/home/faizt/cyb3053_project2/build/CMakeFiles/cyb3053_project2.dir
+/home/faizt/cyb3053_project2/build/CMakeFiles/edit_cache.dir
+/home/faizt/cyb3053_project2/build/CMakeFiles/rebuild_cache.dir
